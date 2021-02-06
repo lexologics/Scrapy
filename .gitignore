@@ -1,0 +1,5 @@
+scrapy.code-workspace
+venv/
+gamesps4*
+temp.py
+.ipynb_checkpoints/
